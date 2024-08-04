@@ -10,25 +10,37 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
-
-
-
-
-
-
+        Good Visualization Example: Donut Chart
+        Visualization Title: "Market Share of Smartphone Operating Systems"
+        Source: StatCounter GlobalStats Link
+        Reason for Classification:
+        Clarity: The distinct, contrasting colors make it easy to differentiate between segments. Clear labels with percentages help viewers quickly understand the data.
+        Accuracy: The data is from a reputable source (StatCounter), ensuring reliability and accuracy.
+        Relevance: The chart focuses on the main operating systems, presenting relevant and significant information without unnecessary details.
+        Aesthetics: The clean design and effective use of colors and white space make the chart visually appealing and easy to read.
+        Interactivity: The online version allows users to hover over segments for more detailed information, enhancing understanding and engagement.
+        This visualization follows best practices in data visualization, emphasizing clarity, accuracy, and effective design as discussed by Edward Tufte and Stephen Few.
+        Bad Visualization Example: Donut Chart
+        Visualization Title: "Donut Chart Example"
+        Source: User-uploaded Image
+        Reason for Classification:
+        Clarity: The similar shades of red for segments A and B cause confusion, making it hard to distinguish between them.
+        Accuracy: The chart lacks numeric data or percentages, preventing accurate interpretation.
+        Relevance: Labels A, B, and C are not explained, reducing the chart's informational value.
+        Aesthetics: The poor use of similar colors and lack of detailed labeling make the chart visually ineffective.
+        Interactivity: As a static image, it offers no interactivity, limiting user engagement and deeper understanding.
+        This chart fails to meet key principles of good data visualization, such as clarity, accurate representation, and effective design, as highlighted by experts like Tufte and Few.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
-      
+        Clarity: Use distinctly different colors for each segment to ensure they are easily distinguishable. Ensure that the colors contrast well to avoid confusion.
+        Accuracy: Include numeric data or percentages on each segment. This addition will provide precise information and improve the viewer's ability to interpret the data accurately.
+        Relevance: Provide context or explanations for what labels A, B, and C represent. A legend or additional text can clarify what each segment stands for, making the chart more informative.
+        Aesthetics: Enhance the visual appeal by using a clean, consistent design. Avoid using colors that are too similar, and consider adding a title inside the central hole of the donut chart to make use of space effectively.
+        Interactivity: If the chart is presented digitally, add interactive elements. Allow users to hover over or click on segments to see detailed information, such as exact values or additional context.
+        Example of an Improved Donut Chart: Colors, Labels, Context, Design, Interactivity
+         
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)

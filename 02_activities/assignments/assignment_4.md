@@ -8,23 +8,25 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+        Python (Matplotlib/Seaborn) or Excel
     > Who is your intended audience? 
-    
+        Financial advisors, policy analysts
     > What information or message are you trying to convey with your visualization? 
-    
+        The relationship between private income levels and GAINS payments.
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+        Substantive: Show how GAINS payments change with varying income levels.
+        Perceptual: Use distinct line styles or markers for different groups (single vs. couples).
+        Aesthetic: Ensure lines are smooth and the graph is not cluttered.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+        Use Python code or Excel formulae; document any steps taken to ensure reproducibility.
     > How did you ensure that your data visualization is accessible?  
-    
+        Include data labels or a legend to help users understand the graph.
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+        Financial planners and advisors who need insights into income-based benefits.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+        Focus on income ranges and corresponding GAINS payments.
     > What ‘underwater labour’ contributed to your final data visualization product?
-
+        Data manipulation, choosing suitable graph types, and refining visual elements.
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
