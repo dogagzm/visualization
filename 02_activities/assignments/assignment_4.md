@@ -8,22 +8,56 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+        I used Python, specifically leveraging libraries such as Matplotlib and Seaborn, for creating the data visualization.
+        
     > Who is your intended audience? 
-    
+        The intended audience includes policy analysts, social workers, and the general public who are interested in understanding the impact of private income on GAINS payment eligibility.
     > What information or message are you trying to convey with your visualization? 
-    
+       The visualization aims to convey the relationship between private income levels and GAINS payment eligibility, showing how varying levels of private income affect the amount of GAINS payments for single seniors and senior couples.
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+        Substantive: Focused on clarity and relevance by choosing to display the income thresholds and corresponding GAINS payments.
+        Perceptual: Used a clear color scheme to differentiate between income levels and payment amounts, with labeled axes and annotations for key data points.
+        Aesthetic: Ensured simplicity and balance by minimizing clutter and using a consistent style for fonts and labels.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+        Python code is fully reproducible; anyone with access to the dataset and code can generate the same visualization. This ensures consistency and accuracy in the results.
     > How did you ensure that your data visualization is accessible?  
-    
+        I used high-contrast colors and descriptive labels to make the visualization readable for individuals with visual impairments. I also ensured the plot is compatible with screen readers by providing alternative text descriptions.
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+        Seniors, policymakers, and financial advisors are directly impacted, as the visualization provides insights into GAINS payment eligibility that could inform financial planning and policy decisions.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+        I included features directly related to the relationship between private income and GAINS payments, excluding extraneous data to keep the visualization focused and clear.
     > What ‘underwater labour’ contributed to your final data visualization product?
+        This involved data cleaning, coding, testing different visualization approaches, and ensuring the visualization was accurate and clear.
+
+    >> Excel Visualization
+    > What software did you use to create your data visualization?
+        I used Microsoft Excel to create the data visualization.
+
+    > Who is your intended audience?
+        The intended audience includes seniors, financial advisors, and policymakers who are interested in understanding the differences in GAINS payments between single seniors and senior couples.
+
+    > What information or message are you trying to convey with your visualization?
+        The visualization aims to compare the maximum GAINS payments for single seniors and senior couples, highlighting how payments differ based on household status.
+
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+        Substantive: Focused on clarity and relevance by clearly showing the differences in GAINS payments between the two groups.
+        Perceptual: Used contrasting colors to differentiate between singles and couples, with a clear legend and data labels for easy interpretation.
+        Aesthetic: Ensured simplicity by using a straightforward bar chart with minimalistic design elements to keep the focus on the data.
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+        Excel visualizations can be reproduced by sharing the Excel file, but there might be slight variations if the file is opened in different versions of Excel. This can impact the consistency of the visualization.
+
+    > How did you ensure that your data visualization is accessible?
+        I used high-contrast colors and added data labels directly on the chart. The visualization is designed to be straightforward, with clear text descriptions for better accessibility.
+
+    > Who are the individuals and communities who might be impacted by your visualization?
+        Seniors, financial advisors, and policymakers are the primary groups impacted by this visualization, as it provides clear insights into GAINS payments that can inform financial planning and policy-making.
+
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+        I focused on the maximum GAINS payments and the corresponding private income thresholds, excluding other unrelated data points to maintain clarity and focus.
+
+    > What ‘underwater labour’ contributed to your final data visualization product?
+        This included data entry, formatting the chart, adjusting design elements for clarity, and ensuring the final product was visually appealing and informative.
+
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
